@@ -40,3 +40,4 @@ Read `CODEX_PROMPT.md` before changing the application. Follow the prompt as the
 Do not use stock portraits for the expert team.
 Do not download competitor photographs.
 Do not copy competitor content or source code.
+# Africa-Power-demo
