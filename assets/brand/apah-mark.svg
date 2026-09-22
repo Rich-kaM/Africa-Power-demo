@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">APAH brand mark</title>
+  <desc id="desc">A green Africa-inspired background icon with the letters APAH centered on a dark circular badge.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0d3c4f"/>
+      <stop offset="100%" stop-color="#071f2e"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(6 6)">
+    <path d="M53 24c-7-10-20-17-33-19-9-1-17 2-24 9-10 10-13 26-9 41 4 16 16 32 29 43 8 7 15 16 18 26 4 12 9 23 20 31 12 8 28 10 42 7 13-3 24-11 31-22 10-15 14-33 11-51-5-24-22-43-42-56-8-5-18-8-27-9-9-1-12 0-16 0z" fill="#20a15c"/>
+    <path d="M58 31c6-8 15-12 24-12-4 12-6 20-6 29 0 8 1 17 7 25-5 1-11 2-16 0-14-5-22-20-22-34 0-3 3-7 13-8zm21 24c10 0 18 9 19 20 2 15-7 27-22 31-10 2-20 0-27-8 7-8 13-17 18-28 3-6 6-10 12-15z" fill="#0b2438" opacity="0.9"/>
+
+    <circle cx="150" cy="102" r="82" fill="url(#bg)"/>
+
+    <path d="M136 73l44 52h-34l-21 25-13-30H75l41-47h20zm-64 41l30-31 23 30h17l-30 34-38-33h-2z" fill="#ffffff" opacity="0.82"/>
+    <path d="M168 56l39 56h-32l-18 22-14-32h-24l33-46h16z" fill="#2ca3b9" opacity="0.35"/>
+
+    <g transform="translate(77 42)">
+      <text x="0" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="2" fill="#f5f7f8">APAH</text>
+    </g>
+  </g>
+</svg>
