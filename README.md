@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Africa Power Advisory Holdings, Codex Source Package
 
 Use this folder as the source package for the Africa Power Advisory Holdings website project in Codex.
@@ -41,3 +42,7 @@ Do not use stock portraits for the expert team.
 Do not download competitor photographs.
 Do not copy competitor content or source code.
 # Africa-Power-demo
+=======
+# Africa-Power-demo
+This a demo website of Africa Power Advisory Holding.
+>>>>>>> 67bf09e80965b7b498b7e5e506a8c4300ace2c97
